@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-This is random text
+# Give me liberty or give me death!
 Use the left arrow to go back!
